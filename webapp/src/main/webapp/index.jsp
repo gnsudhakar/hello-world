@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here GN 27/02/2021 15:35 PM</h2>
+<h2> Glad to see you here GN 01/03/2021 00:52 AM</h2>
